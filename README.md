@@ -58,6 +58,7 @@
 |---------------|----------|
 | Git           | [learngitbranching.js.org](https://learngitbranching.js.org) |
 | API           | [freecodecamp.org](https://www.freecodecamp.org) |
+| JSON number precision | [BestJSON guide: large numbers in JSON](https://bestjson.com/learn/json-large-numbers) |
 | REST          | [restfulapi.net](https://restfulapi.net) |
 | Microservices | [dzone.com](https://dzone.com) |
 | Backend       | [theserverside.com](https://theserverside.com) |
